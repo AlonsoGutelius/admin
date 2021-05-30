@@ -33,7 +33,7 @@ a {
     -webkit-transition: all 0.1s ease-in-out;
     -o-transition: all 0.1s ease-in-out;
     outline: none;
-	color:#272727;
+	color:#fff;
 }
 a:hover {
 	text-decoration: none;
@@ -53,7 +53,7 @@ a:hover {
 .btn:hover {
 	background-color: #124d04;
 	border-color:#f2f2f2;
-	color:#272727;	
+	color:#fff;	
 }
 	
 /*===========================
